@@ -45,6 +45,7 @@
 
 ## Output
 ![image](https://github.com/Adchayakiruthika18/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/147139995/91db1a65-1064-479a-a989-897f7d1849a5)
+![Screenshot 2024-11-01 145759](https://github.com/user-attachments/assets/a708c366-7b24-44b2-be5c-f8f6f61b5aab)
 
 ### Name: NARRA AKHL
 ### Register Number: 212223230136
